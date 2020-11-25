@@ -82,5 +82,4 @@ p slow_dance("right-down", tiles_array)
 p fast_dance("up", new_tiles_data_structure)
 p fast_dance("right-down", new_tiles_data_structure)
 
-
     
